@@ -96,7 +96,7 @@ body{
 
 .main-nav-list::before,
 .main-nav-list::after{
-    background-color: #e70146;
+    background-color: #a1a1a1;
     content: "";
     position: absolute;
     top: 0;
